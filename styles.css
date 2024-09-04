@@ -1,14 +1,15 @@
 /* General Styles */
 body {
-    font-family: 'EB Garamond', sans-serif;
+    font-family: 'EB Garamond', serif;
     line-height: 1.6;
     margin: 0;
     padding: 20px;
     max-width: 800px;
     margin: auto;
-    background-color: #f5ecd8;
+    background: #f5ecd8 url('background.png') repeat; /* Light parchment color with a subtle pattern */
     color: #333;
 }
+
 
 /* Title of the Play */
 h1 {
