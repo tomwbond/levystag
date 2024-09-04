@@ -8,7 +8,7 @@ layout: default
 
 # Hamlet’s Misrule Revelry
 
-## Narrator’s Introduction
+## Narrator’s introduction
 
 *The narrator steps forward, addressing the audience directly. They could be one of the characters or someone specifically chosen for this role. The tone should be playful and slightly mysterious, inviting the audience into the world of the play.*
 
