@@ -1,12 +1,12 @@
 /* General Styles */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'EB Garamond', sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 20px;
     max-width: 800px;
     margin: auto;
-    background-color: #f8f8f8;
+    background-color: #f5ecd8;
     color: #333;
 }
 
