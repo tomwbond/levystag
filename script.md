@@ -1,3 +1,7 @@
+---
+title: "Levy's stag script"
+layout: default
+---
 
 # Hamlet’s Misrule Revelry
 
