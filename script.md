@@ -3,6 +3,9 @@ title: "Hamlet’s Misrule Revelry"
 layout: default
 ---
 
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap">
+<link rel="stylesheet" href="styles.css">
+
 # Hamlet’s Misrule Revelry
 
 ## Narrator’s Introduction
