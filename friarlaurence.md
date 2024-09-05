@@ -1,3 +1,11 @@
+---
+title: "Friar Laurence"
+layout: default
+---
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap">
+<link rel="stylesheet" href="styles.css">
+
 # Friar Laurence  
 
 A Franciscan friar and trusted advisor to both Romeo and Juliet.
