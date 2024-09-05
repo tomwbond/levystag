@@ -12,13 +12,13 @@ layout: default
 
 ## Character sheets
 
-### Hamlet
-### The Witches
-### Mercutio
-### Queen Titania
-### Friar Laurence
-### Sir Toby Belch
-### Sir John Falstaff
-### Malvolio
+### [Hamlet](hamlet.md)
+### [The Witches](witches.md)
+### [Mercutio](mercutio.md)
+### [Queen Titania](titania.md)
+### [Friar Laurence](friarlaurence.md)
+### [Sir Toby Belch](toby.md)
+### [Sir John Falstaff](falstaff.md)
+### [Malvolio](malvolio.md)
 
 ## Walking tour
