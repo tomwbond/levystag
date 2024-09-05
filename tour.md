@@ -54,13 +54,13 @@ The court is known for its picturesque architecture, including traditional timbe
 **Trivia:**  
 The name “Bell Court” might be linked to an old bell that was used for signaling purposes or perhaps even as a marker for the court’s entrance. The bell would have been a crucial part of daily life, helping to coordinate activities and events in the bustling marketplace.
 
----
-
 **Additional Tips:**
 - **Engage the Group:** As you walk through these areas, encourage your group to imagine what life might have been like here during Shakespeare’s time. What kinds of activities might have taken place? What might these streets have sounded like?
 - **Fun Facts:** Share any quirky local legends or interesting historical anecdotes related to these spots. For instance, if there’s a local story about a bell or an event that took place in Bell Court, it can make the tour more engaging.
 
-**Welcome to the American Fountain!**
+---
+
+# **Welcome to the American Fountain!**
 
 **Historical Background:**  
 The American Fountain is located in the Bancroft Gardens, not far from the Royal Shakespeare Theatre. It was a gift from American residents of Stratford, given in 1887 to commemorate the centenary of Shakespeare's death.
@@ -78,7 +78,7 @@ The American Fountain is a testament to how Shakespeare's influence extends beyo
 
 
 
-**Welcome to the Garrick Inn!**
+# **Welcome to the Garrick Inn!**
 
 **Historical Background:**  
 The Garrick Inn is one of the oldest pubs in Stratford-upon-Avon, with a history dating back to the 14th century. It’s named after David Garrick, a famous 18th-century actor and Shakespearean enthusiast who was instrumental in popularizing Shakespeare’s work. The pub has been a staple of the local community for centuries and has a rich history of serving locals and visitors alike.
@@ -101,7 +101,7 @@ The pub has been a favorite spot for many famous visitors over the years, includ
 - **Engage the Group:** Encourage your group to imagine what the pub might have been like during Shakespeare’s time and how it might have been a gathering place for local residents and visitors.
 - **Enjoy the Atmosphere:** Take some time to relax and enjoy the traditional pub atmosphere. The Garrick Inn is a great place to reflect on the history of Stratford while enjoying a meal or a drink.
 
-**Welcome to Harvard House!**
+# **Welcome to Harvard House!**
 
 **Historical Background:**  
 Harvard House is a historic building located on High Street, Stratford-upon-Avon. It was built in the early 16th century and is notable for its connection to the Harvard family. The house was later acquired by John Harvard, the founder of Harvard University.
@@ -118,7 +118,7 @@ Harvard House is a historic building located on High Street, Stratford-upon-Avon
 Harvard House not only highlights Stratford’s connection to a key figure in American education but also serves as a reminder of the strong historical ties between the UK and the US.
 
 
-**Welcome to Shakespeare’s New Place!**
+# **Welcome to Shakespeare’s New Place!**
 
 **Historical Background:**  
 Shakespeare’s New Place was the grand home where William Shakespeare lived from 1597 until his death in 1616. This was the house where he spent his later years and where he wrote some of his most famous works. It was located on the site of an earlier house that Shakespeare purchased and expanded. The original building was demolished in 1759, but the site remains one of Stratford’s key historical locations.
@@ -137,11 +137,10 @@ In his will, Shakespeare famously left his “second-best bed” to his wife, An
 - **Engage the Group:** Encourage your group to imagine Shakespeare enjoying his retirement here. What do they think his home life might have been like? How might the gardens have inspired his writing?
 - **Fun Facts:** Share anecdotes about the house’s significance and its impact on Shakespeare’s final years. You might also highlight how the modern interpretation of the gardens adds to the charm and historical ambiance of the site.
 
-- 
 
-**Welcome to the Guild Chapel, Shakespeare’s Schoolroom, and Guildhall!**
+# **Welcome to the Guild Chapel, Shakespeare’s Schoolroom, and Guildhall!**
 
-**Guild Chapel**
+## **Guild Chapel**
 
 **Historical Background:**  
 The Guild Chapel dates back to the 13th century and was originally associated with the Guild of the Holy Cross, a religious fraternity. It served as a center for community and religious life in medieval Stratford-upon-Avon.
@@ -153,9 +152,8 @@ The chapel features stunning Gothic architecture with beautiful medieval wall pa
 - **Medieval Murals:** The chapel’s wall paintings are some of the best-preserved medieval murals in England. They offer a rare glimpse into the religious art of the period.
 - **Community Role:** Besides its religious functions, the chapel was used for various community events and ceremonies.
 
----
 
-**Shakespeare’s Schoolroom**
+## **Shakespeare’s Schoolroom**
 
 **Historical Background:**  
 This schoolroom is part of the King Edward VI School, founded in the 1550s. Shakespeare attended this school during his youth, receiving his early education here.
@@ -167,9 +165,8 @@ The schoolroom retains many features from Shakespeare’s time, including tradit
 - **Education Insight:** Shakespeare’s education here would have included a rigorous curriculum focused on classical texts, which influenced his later works.
 - **Historic Atmosphere:** The schoolroom maintains its historic atmosphere, allowing visitors to imagine what it might have been like for Shakespeare as a student.
 
----
 
-**Guildhall**
+## **Guildhall**
 
 **Historical Background:**  
 The Guildhall was used for guild meetings and community gatherings. It played a central role in local governance and the social life of Stratford.
@@ -181,13 +178,11 @@ The Guildhall features a classic medieval hall design with a large, open interio
 - **Civic Life:** The Guildhall was a hub for local administration and trade guilds, reflecting the importance of guilds in medieval town life.
 - **Social Events:** It was also a venue for various social and civic events, making it a key site for understanding the town’s communal activities.
 
----
-
 **Additional Tips:**
 - **Engage the Group:** Encourage your group to think about how these sites were interconnected and what life might have been like for Shakespeare and the townspeople during the medieval period.
 - **Fun Facts:** Share interesting anecdotes or legends related to these buildings. For instance, you could talk about how the Guild Chapel’s murals were discovered and preserved, or how the Guildhall was used for important civic events.
 
-**Welcome to Hall’s Croft!**
+# **Welcome to Hall’s Croft!**
 
 **Historical Background:**  
 Hall’s Croft was the home of William Shakespeare’s daughter, Susanna, and her husband, Dr. John Hall. Built in the early 17th century, it reflects the prosperity of the Hall family and offers insight into the more affluent side of life in Shakespeare’s time.
@@ -206,7 +201,7 @@ There’s a local anecdote that Dr. Hall was known for his elaborate treatments 
 - **Engage the Group:** Encourage your group to think about the contrast between the lives of Shakespeare and his daughter. How might their experiences have differed?
 - **Fun Facts:** Share amusing stories or facts about early modern medicine. For example, you might talk about some of the more bizarre treatments that were used during Dr. Hall’s time.
 
-**Welcome to Holy Trinity Church!**
+# **Welcome to Holy Trinity Church!**
 
 **Historical Background:**  
 Holy Trinity Church is one of the most significant sites in Stratford-upon-Avon, both for its historical importance and its connection to William Shakespeare. It’s an English Gothic church dating back to the 13th century, though parts of it were rebuilt and restored over the centuries.
@@ -228,7 +223,7 @@ There’s a local legend that Shakespeare's grave has been the target of various
 - **Engage the Group:** Encourage your group to think about the significance of Shakespeare’s final resting place and how it reflects his lasting legacy.
 - **Explore the Church:** Make sure to explore the church’s beautiful architecture and stained glass windows, which offer a glimpse into the art and craftsmanship of the medieval period.
 
-**Welcome to the Dell Open Air Theatre!**
+# **Welcome to the Dell Open Air Theatre!**
 
 **Historical Background:**  
 The Dell Open Air Theatre is an outdoor venue located in the heart of Stratford-upon-Avon, close to the Royal Shakespeare Theatre. It’s operated by the Royal Shakespeare Company (RSC) and has been a popular site for open-air performances since its opening in 1996. The theatre provides a unique and atmospheric setting for Shakespearean and classical plays.
@@ -251,7 +246,7 @@ The Dell’s open-air setting can create some unique experiences for the audienc
 - **Engage the Group:** Encourage your group to think about how the setting might influence the performance and the audience’s experience. What might be different about watching a play in an open-air theatre compared to a traditional indoor venue?
 - **Performance Schedule:** If your visit coincides with a performance, it’s worth checking out the schedule and considering catching a show. The unique setting of the Dell can be a memorable part of the Shakespeare experience.
 
-**Welcome to the Chain Ferry!**
+# **Welcome to the Chain Ferry!**
 
 **Historical Background:**  
 The Chain Ferry is a traditional hand-operated ferry that crosses the River Avon in Stratford-upon-Avon. It’s been in operation for centuries, providing a vital link between the two sides of the river. The ferry is one of the few remaining examples of this type of river crossing in the UK.
@@ -274,7 +269,7 @@ The chain ferry’s operation has remained largely unchanged over the years. It�
 - **Engage the Group:** Encourage your group to appreciate the simplicity and efficiency of the chain ferry. How might this method of crossing compare to modern bridges or ferries?
 - **Enjoy the Views:** Make sure to take in the scenic views of the River Avon and the surrounding area during the crossing. It’s a great opportunity for some memorable photos.
 
-**Welcome to the Bandstand!**
+# **Welcome to the Bandstand!**
 
 **Historical Background:**  
 The bandstand, located in the Bancroft Gardens on the south side of the River Avon, was originally erected in 1887 to commemorate the Golden Jubilee of Queen Victoria. It’s a classic example of Victorian design, reflecting the era’s fascination with ornamental and functional public spaces.
@@ -297,7 +292,7 @@ During its early years, the bandstand was often used for brass band performances
 - **Engage the Group:** Encourage your group to imagine what the bandstand might have looked like during its early days. What kind of performances or events might have taken place here?
 - **Explore the Gardens:** Take some time to enjoy the Bancroft Gardens surrounding the bandstand. It’s a lovely area for a stroll, and you can appreciate the bandstand’s role within this historic public space.
 
-**Welcome to the Tramway Bridge!**
+# **Welcome to the Tramway Bridge!**
 
 **Historical Background:**  
 The Tramway Bridge, also known as the Tramway Viaduct, is a notable structure that spans the River Avon. It was constructed in the mid-19th century, specifically between 1864 and 1865, as part of the Stratford-upon-Avon to Birmingham railway line. The bridge was designed to carry horse-drawn trams, hence its name.
@@ -320,12 +315,12 @@ The Tramway Bridge was one of the early examples of using iron in bridge constru
 - **Engage the Group:** Encourage your group to consider how transportation methods have evolved over time. How might the bridge have impacted travel and commerce during the 19th century?
 - **Historical Context:** Discuss the role of such infrastructure in the growth of towns and cities during the industrial era. How did these advancements change daily life and business?
 
-**Welcome to the Royal Shakespeare Company Theatres!**
+# **Welcome to the Royal Shakespeare Company Theatres!**
 
 **Historical Background:**  
 The Royal Shakespeare Company (RSC) is one of the world’s leading theatre companies, founded in 1961. It’s dedicated to producing Shakespeare’s plays and other classic works. The RSC operates several theatres in Stratford-upon-Avon, with the Royal Shakespeare Theatre and the Swan Theatre being the primary venues.
 
-**Royal Shakespeare Theatre:**
+## **Royal Shakespeare Theatre:**
 
 **Architecture and Today:**  
 - **Original Theatre:** The original Royal Shakespeare Theatre opened in 1879 but was replaced by a new building in 1962, designed by architect Elisabeth Scott. This modern building was later expanded and updated in a major renovation completed in 2010.
@@ -335,7 +330,7 @@ The Royal Shakespeare Company (RSC) is one of the world’s leading theatre comp
 - **Performances:** The Royal Shakespeare Theatre is renowned for its productions of Shakespeare’s plays, as well as a range of classical and contemporary works. It hosts performances by some of the finest actors and directors in the industry.
 - **Cultural Impact:** The theatre is a cultural landmark in Stratford and has played a key role in the town’s reputation as the home of Shakespeare. It’s a hub for both local and international theatre enthusiasts.
 
-**Swan Theatre:**
+## **Swan Theatre:**
 
 **Architecture and Today:**  
 - **Design Features:** The Swan Theatre, which opened in 1986, is named for its Elizabethan-style design. It’s known for its unique, intimate space that enhances the experience of classic and new plays. The theatre is inspired by the original Elizabethan playhouses and features a traditional proscenium arch stage.
@@ -353,8 +348,3 @@ The Royal Shakespeare Theatre’s transformation in 2010 was part of a £112.8 m
 **Additional Tips:**
 - **Engage the Group:** Encourage your group to think about how the theatre experience has evolved over time. How might Shakespeare’s plays have been performed differently in his own day compared to now?
 - **Explore the Facilities:** If time permits, take a tour of the theatre facilities, including the backstage areas and the rooftop restaurant. The modern amenities and design enhancements provide a fascinating contrast to the historic productions on stage.
-
-
-
-
-
