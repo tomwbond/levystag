@@ -1,11 +1,1 @@
----
-title: "Levy's stag!"
-layout: default
----
-
-# Play script
-
-## Character sheets
-
-# Walking tour
-
+Levy's stag
