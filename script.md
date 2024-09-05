@@ -240,7 +240,7 @@ For this is but the start of night!”
 
 *The characters prepare for the next challenge, the air filled with laughter and the promise of more absurdity to come.*
 
-## Act 2: The Enchanted Duel
+## Challenge 2: The Enchanted Duel
 
 *The lights flicker mysteriously as the two Witches step forward, cackling softly. They circle Hamlet and Malvolio, weaving invisible threads of magic. Hamlet looks resigned, while Malvolio stands rigid, trying to maintain his dignity.*
 
@@ -362,7 +362,7 @@ I’ll leave you all to this reckless play!”
 
 *The witches cackle, while the other characters cheer for Hamlet. The magical duel ends in a flurry of laughter and exaggerated applause.*
 
-## Act 3: The Enchanted Chase
+## Challenge 3: The Enchanted Chase
 
 *The mystical forest shimmers, the air thick with enchantment. The Witches huddle together, cackling as they prepare their next spell. Hamlet and the other characters stand wary, expecting more mischief.*
 
