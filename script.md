@@ -240,7 +240,7 @@ For this is but the start of night!”
 
 *The characters prepare for the next challenge, the air filled with laughter and the promise of more absurdity to come.*
 
-# **Act 2: The Enchanted Duel**
+## Act 2: The Enchanted Duel
 
 *The lights flicker mysteriously as the two Witches step forward, cackling softly. They circle Hamlet and Malvolio, weaving invisible threads of magic. Hamlet looks resigned, while Malvolio stands rigid, trying to maintain his dignity.*
 
@@ -362,7 +362,7 @@ I’ll leave you all to this reckless play!”
 
 *The witches cackle, while the other characters cheer for Hamlet. The magical duel ends in a flurry of laughter and exaggerated applause.*
 
-# **Act 3: The Enchanted Chase**
+## Act 3: The Enchanted Chase
 
 *The mystical forest shimmers, the air thick with enchantment. The Witches huddle together, cackling as they prepare their next spell. Hamlet and the other characters stand wary, expecting more mischief.*
 
@@ -453,7 +453,7 @@ For running isn’t suited to this arse!”
 
 *The characters, laughing and groaning, walk off to rest after the chaos of the enchanted chase. The Witches watch them leave, still giggling to themselves, their mischief complete.*
 
-### **Act 2: The Trial of the Lord of Misrule**
+## Act 2: The Trial of the Lord of Misrule
 
 *The stage is set in the heart of the mystical forest. The eerie glow of the trees casts long shadows as Hamlet, still dazed from the previous challenges, is suddenly surrounded by the other characters. A throne, made of twisted branches, rises in the center, where the Witches stand, eager for the trial to begin.*
 
@@ -506,7 +506,7 @@ Hamlet must face the misrule sins.”
 
 ---
 
-#### Task 1: A Fool’s Wisdom
+## Task 1: A Fool’s Wisdom
 
 *The Witches present Hamlet with a riddle, meant to test his wit and ability to think like a fool. Mercutio, Falstaff, and Sir Toby all chime in with their own twisted interpretations.*
 
@@ -536,7 +536,7 @@ On to the next, let’s test his will!”
 
 ---
 
-#### Task 2: The Dance of Chaos
+## Task 2: The Dance of Chaos
 
 *The characters must now demonstrate their ability to improvise and embrace chaos. Each character must perform a spontaneous, wild dance or movement. Hamlet watches, amused but unsure how to respond.*
 
@@ -566,7 +566,7 @@ One final test, will he keep pace?”
 
 ---
 
-#### Task 3: The Judgement of Misrule
+## Task 3: The Judgement of Misrule
 
 *The final test is for Hamlet to decide who among the misfits should be the new Lord of Misrule. The others argue and bicker, each presenting their case.*
 
