@@ -239,3 +239,126 @@ But oh, the night is still quite free!”
 For this is but the start of night!”
 
 *The characters prepare for the next challenge, the air filled with laughter and the promise of more absurdity to come.*
+
+# **Act 2: The Enchanted Duel**
+
+*The lights flicker mysteriously as the two Witches step forward, cackling softly. They circle Hamlet and Malvolio, weaving invisible threads of magic. Hamlet looks resigned, while Malvolio stands rigid, trying to maintain his dignity.*
+
+**First Witch:**  
+“Now, good Hamlet, a new test we lay—  
+An enchanted duel to brighten the fray.”
+
+**Second Witch:**  
+“A duel of wit, of speed, of flair,  
+But beware, for magic fills the air!”
+
+*They wave their hands, and a shimmering magical "arena" appears—though it’s all imaginary. Illusions of weapons flash briefly. The audience sees nothing but must imagine the magical scene through the characters’ reactions.*
+
+**Hamlet:**  
+*A little sarcastic*  
+“What trick is this, what foolery grand?  
+A duel with magic’s invisible hand?”
+
+**Malvolio:**  
+*Indignant*  
+“I am no fool to play in such jest,  
+My dignity is at stake—my very best!”
+
+**First Witch:**  
+“Dignity? Bah! We’ll see it fall,  
+When you fight with feather and not with brawl!”
+
+*With a wave of her hand, Malvolio’s weapon appears—a large, absurd feather duster. He looks at it in horror.*
+
+**Malvolio:**  
+“What is this nonsense, this weapon absurd?  
+I refuse to fight—it’s truly unheard!”
+
+**Second Witch:**  
+*Gleefully*  
+“Fight you will, for by our spell,  
+Thy feet shall move, whether ill or well!”
+
+*Suddenly, Malvolio’s feet begin to move involuntarily. He clumsily waves the feather duster around, trying to resist but clearly enchanted. Hamlet, seeing the ridiculousness of the situation, grins.*
+
+**Hamlet:**  
+“Well then, if magic rules this night,  
+I’ll play the fool and join the fight!”
+
+*Hamlet is given an invisible sword, but every time he swings, it turns into a different object—first a bouquet of flowers, then a rubber chicken, then a giant spoon. The witches giggle as they continue casting their mischief.*
+
+**First Witch:**  
+“A spoon for you, my princely knight,  
+Let’s see you win this comical fight!”
+
+*Hamlet swings the spoon with exaggerated finesse, overacting his moves. Malvolio, in stark contrast, stumbles and twirls uncontrollably, trying to fight with the feather duster.*
+
+**Malvolio:**  
+*Flustered, while flailing*  
+“This is an outrage, I tell thee,  
+A travesty most foul—I’ll never be free!”
+
+**Second Witch:**  
+“Fight, fight, good sirs, till we declare,  
+The winner of this duel, oh so rare!”
+
+*The duel continues with increasingly absurd magical effects. The witches cause Hamlet to speak in rhyme whenever he speaks during the fight.*
+
+**Hamlet:**  
+*Astonished*  
+“Now by the moon, what curse is this?  
+Each word I speak must sound like bliss?”
+
+**Malvolio:**  
+*Struggling*  
+“Enough, enough! I cannot bear,  
+To duel in such a manner, most unfair!”
+
+**First Witch:**  
+“Not yet, dear Malvolio, we’re not done—  
+The duel must end with the *best* one.”
+
+**Second Witch:**  
+“A death scene, my lords, to seal the deal,  
+The most *theatrical* one wins for real!”
+
+*The crowd of characters watches eagerly as Hamlet and Malvolio prepare for their grand death scenes.*
+
+**Hamlet:**  
+*Dramatically clutching his chest*  
+“O woe is me, the time is nigh,  
+For in this duel, I surely die!  
+I fall to earth, my soul does part,  
+A prince undone by feathered art!”
+
+*Hamlet falls to the ground in an exaggerated swoon, rolling dramatically for added effect.*
+
+**Malvolio:**  
+*With great reluctance, but determined not to be outdone*  
+“Though this is madness, I’ll play my part,  
+But mark this well—it breaks my heart!”
+
+*Malvolio twirls with the feather duster and then collapses in a heap, clutching it like a tragic relic.*
+
+**Sir Toby Belch:**  
+*Cheering*  
+“Bravely done! I say Hamlet’s the victor—  
+His death was *longer* and far more slicker!”
+
+**Sir John Falstaff:**  
+*Nodding in agreement*  
+“Aye, ‘twas a spectacle, indeed well-played!  
+But Malvolio’s fall was stiff and staid.”
+
+**First Witch:**  
+“Declare we must, the winner bold,  
+And by our spell, his tale is told.”
+
+*The witches declare Hamlet the winner, but with much laughter and cheering from the group. Malvolio, embarrassed but still attempting to maintain his dignity, stands up and brushes himself off.*
+
+**Malvolio:**  
+“This night will haunt me, no more shall I stay—  
+I’ll leave you all to this reckless play!”
+
+*The witches cackle, while the other characters cheer for Hamlet. The magical duel ends in a flurry of laughter and exaggerated applause.*
+
