@@ -362,3 +362,94 @@ I’ll leave you all to this reckless play!”
 
 *The witches cackle, while the other characters cheer for Hamlet. The magical duel ends in a flurry of laughter and exaggerated applause.*
 
+# **Act 3: The Enchanted Chase**
+
+*The mystical forest shimmers, the air thick with enchantment. The Witches huddle together, cackling as they prepare their next spell. Hamlet and the other characters stand wary, expecting more mischief.*
+
+**First Witch:**  
+“Our final test, both grand and sly,  
+A chase of shadows ‘neath the sky!”
+
+**Second Witch:**  
+“Run you must, swift and spry,  
+For whoever is caught will say goodbye!”
+
+*The Witches conjure a fog that rolls across the stage, filling the scene with an eerie atmosphere. Queen Titania steps forward, watching the Witches with suspicion.*
+
+**Queen Titania:**  
+“What game is this you weave tonight?  
+A chase of shadows, a foolish plight!”
+
+**Second Witch:**  
+“A chase it is, and here’s the trick,  
+You run through fog, and we’ll play quick!”
+
+**Hamlet:**  
+*Groaning*  
+“Oh dear, another game to play,  
+But mark me, I’ll not run away!”
+
+**Sir Toby Belch:**  
+*Chuckling*  
+“A chase? I’m game! But after this,  
+A drink or two would bring us bliss!”
+
+**Sir John Falstaff:**  
+“Run? Nay, I’ve not the legs for flight—  
+But give me ale, and I’ll fight all night!”
+
+*The Witches flick their wrists, and the fog thickens. They create enchanted illusions—trickster copies of the characters, all running in different directions. Confusion ensues as everyone tries to chase or flee the illusions.*
+
+**Hamlet:**  
+*Swatting at an illusion*  
+“By my sword, is this real or fake?  
+I chase, but phantoms I cannot take!”
+
+**Malvolio:**  
+*Tripping over an illusion*  
+“Enough of this—where is the end?  
+I refuse to run or bend!”
+
+**Queen Titania:**  
+“Ah, but the forest plays its tricks,  
+This chase is worse than politics!”
+
+*As the chase unfolds, everyone runs in circles, sometimes colliding with each other, sometimes swiping at thin air. The Witches watch from the side, laughing gleefully. Malvolio trips, Sir Toby stumbles, and Falstaff lazily ambles behind, clearly uninterested in running.*
+
+**First Witch:**  
+“A chase that spins, a merry race,  
+Who will win? Who’ll lose the pace?”
+
+**Second Witch:**  
+“We make it end with a simple call,  
+The one who stumbles last, shall fall!”
+
+*At this moment, Hamlet accidentally trips and falls into Sir Toby, who in turn knocks into Malvolio. The others all fall over in a comedic heap. The Witches cackle with glee.*
+
+**First Witch:**  
+“Aha! We have our winners clear,  
+The ones who fell are done, I fear!”
+
+**Hamlet:**  
+*Laughing, as he untangles himself*  
+“Well, I am bested, fair and true,  
+But mark me—next time, I’ll outrun you!”
+
+**Malvolio:**  
+*Dusting himself off, with a huff*  
+“This is absurd—I’ll play no more,  
+You’ve won the game, now show the door!”
+
+*As the fog lifts, the Witches gesture grandly, ending the chase and returning the scene to normal.*
+
+**Sir Toby Belch:**  
+“Well, that was fun! But now I seek,  
+A drink or two, for this tired cheek!”
+
+**Sir John Falstaff:**  
+*Nods in agreement*  
+“Aye, drink we shall, to end this farce,  
+For running isn’t suited to this arse!”
+
+*The characters, laughing and groaning, walk off to rest after the chaos of the enchanted chase. The Witches watch them leave, still giggling to themselves, their mischief complete.*
+
