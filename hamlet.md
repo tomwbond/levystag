@@ -1,3 +1,11 @@
+---
+title: "Hamlet"
+layout: default
+---
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap">
+<link rel="stylesheet" href="styles.css">
+
 # Hamlet
 
 The Prince of Denmark, son of the late King Hamlet and Queen Gertrude.
