@@ -453,3 +453,149 @@ For running isn’t suited to this arse!”
 
 *The characters, laughing and groaning, walk off to rest after the chaos of the enchanted chase. The Witches watch them leave, still giggling to themselves, their mischief complete.*
 
+### **Act 2: The Trial of the Lord of Misrule**
+
+*The stage is set in the heart of the mystical forest. The eerie glow of the trees casts long shadows as Hamlet, still dazed from the previous challenges, is suddenly surrounded by the other characters. A throne, made of twisted branches, rises in the center, where the Witches stand, eager for the trial to begin.*
+
+**First Witch:**  
+“Now the time has come to see,  
+Who the misruler’s lord shall be.”
+
+**Second Witch:**  
+“Shall Hamlet prove himself today,  
+Or shall he fall, in disarray?”
+
+*Hamlet, now placed in the center of the stage, is confused but defiant.*
+
+**Hamlet:**  
+“Misrule, you say? A lord to choose?  
+I’ll face your test, for I shan’t lose!”
+
+**Sir Toby Belch:**  
+*Stepping forward, grinning.*  
+“Ha! A trial, you say? I’ll be the judge!  
+Who better than me, to weigh this grudge?”
+
+**Sir John Falstaff:**  
+*A jovial laugh.*  
+“And I, of course, must represent the common man,  
+For I know misrule better than any in this land!”
+
+*The Witches cackle in agreement. Queen Titania steps forward, her regal demeanor contrasting with the chaos around her.*
+
+**Queen Titania:**  
+“The forest, enchanted and wild, demands respect.  
+Misrule, yes, but balance we protect.”
+
+**Malvolio:**  
+*Looking irritated.*  
+“This farce has gone too far, I say.  
+Let order rule and clear the way!”
+
+**Mercutio:**  
+*Laughing, leaning on his sword.*  
+“Order, Malvolio? Bah! This is a game!  
+A game of madness—misrule in name!”
+
+**First Witch:**  
+*Raising her hand.*  
+“Quiet, fools! The trial begins,  
+Hamlet must face the misrule sins.”
+
+*The Witches motion to a set of three tasks, displayed in the forest—each one representing a challenge Hamlet must face in the trial. The trial itself is meant to determine whether Hamlet has the "chaotic spirit" necessary to rule over misrule.*
+
+---
+
+#### Task 1: A Fool’s Wisdom
+
+*The Witches present Hamlet with a riddle, meant to test his wit and ability to think like a fool. Mercutio, Falstaff, and Sir Toby all chime in with their own twisted interpretations.*
+
+**First Witch:**  
+“To rule misrule, you must think askew,  
+Solve this riddle, if you can pursue.”
+
+**Second Witch:**  
+“What grows larger the more you take away?”
+
+*Hamlet ponders, while the others try to confuse him.*
+
+**Sir Toby Belch:**  
+“Easy! It’s my belly after a feast, surely!”
+
+**Sir John Falstaff:**  
+“Or my thirst for ale—never quenched, only increased!”
+
+**Hamlet:**  
+*Smirking as he understands the riddle.*  
+“A hole! It grows larger the more you take away!”
+
+**Witches:**  
+*Clapping in approval.*  
+“Correct! He thinks as a fool, yet clever still,  
+On to the next, let’s test his will!”
+
+---
+
+#### Task 2: The Dance of Chaos
+
+*The characters must now demonstrate their ability to improvise and embrace chaos. Each character must perform a spontaneous, wild dance or movement. Hamlet watches, amused but unsure how to respond.*
+
+**Queen Titania:**  
+*Graceful but erratic.*  
+“In the realm of faeries, we dance with glee,  
+Chaos, yes, but it’s beauty to me!”
+
+**Mercutio:**  
+*Dancing wildly, spinning his sword.*  
+“I fight with wit, but I dance with blades,  
+Chaos? Hah! It's all just masquerades!”
+
+**Malvolio:**  
+*Reluctantly attempting a stiff, awkward dance.*  
+“This is beneath me—I’ll have no part,  
+Chaos, misrule, it’s all but a fart!”
+
+**Hamlet:**  
+*Laughing, joining in with a mix of grace and madness.*  
+“Then chaos shall reign, for what is the night,  
+Without madness and dance, under the moon’s light!”
+
+**Witches:**  
+“Ha! He dances well, in misrule’s grace,  
+One final test, will he keep pace?”
+
+---
+
+#### Task 3: The Judgement of Misrule
+
+*The final test is for Hamlet to decide who among the misfits should be the new Lord of Misrule. The others argue and bicker, each presenting their case.*
+
+**Sir Toby Belch:**  
+“I’m the man for the job! I’ve been misruling for years, ha!”
+
+**Falstaff:**  
+“Aye, but I’m bigger and bolder. I’ll drink to misrule every day!”
+
+**Queen Titania:**  
+“Fools, all of you. Only a faerie queen can truly wield the chaos.”
+
+**Mercutio:**  
+*Laughing*  
+“Chaos is mine to rule! My mind is a whirl of misrule already!”
+
+*Hamlet must choose wisely, but the Witches intervene.*
+
+**First Witch:**  
+“To rule misrule is not a crown,  
+But to embrace the chaos all around!”
+
+**Second Witch:**  
+“You, Hamlet, are the chosen one—  
+Misrule is yours, now have your fun!”
+
+*The trial ends with Hamlet being declared the Lord of Misrule, to the cheers (and grumbles) of the others. The scene closes with the characters bowing to their new Lord of Misrule as the forest fills with laughter and the sound of magic.*
+
+**Hamlet:**  
+*Smiling, accepting the role with a wink.*  
+“Then let misrule reign, for tonight, we’re free,  
+Let the madness flow—under this enchanted tree!”
