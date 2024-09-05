@@ -68,7 +68,7 @@ Welcome, ye hags of fate and mystery!"
 *The Witches enter*
 
 **First Witch:**  
-"Tis true, we three have power untold,  
+"Tis true, we do have power untold,  
 To shape the future, both fierce and bold"
 
 **Second Witch**
