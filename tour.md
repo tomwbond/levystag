@@ -6,7 +6,8 @@ layout: default
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap">
 <link rel="stylesheet" href="styles.css">
 
-**Welcome to Shakespeare’s Birthplace!**
+---
+# **Welcome to Shakespeare’s Birthplace!**
 
 **History of the Building:**  
 This charming Tudor house is where William Shakespeare was born in 1564. It’s a fascinating glimpse into the past, showing us what life was like in the 16th century. Shakespeare lived here with his family until he moved to London to pursue his career in theatre. The house was originally built by his father, John Shakespeare, who was a glover and a respected member of the community.
@@ -27,7 +28,9 @@ The building itself is a classic example of Tudor architecture. It’s construct
 **Fun Fact:**  
 If you’re wondering about the house’s name, it’s believed that the term "birthplace" was actually used later to denote its significance. Shakespeare’s own family would have simply called it home!
 
-**Minories**
+---
+
+# **Minories**
 
 **Historical Background:**  
 Minories was named after the Minorites, a group of Franciscan friars who established a friary in Stratford in the 13th century. The friary was a center of learning and religious activity, though it was dissolved in the 16th century during the Reformation. Today, the name serves as a reminder of Stratford’s medieval religious history.
@@ -40,7 +43,7 @@ There’s a local legend that the friars used to ring a bell to gather townsfolk
 
 ---
 
-**Bell Court**
+# **Bell Court**
 
 **Historical Background:**  
 Bell Court is an atmospheric courtyard that dates back to the medieval period. Originally a site of trade and commerce, it’s been an integral part of Stratford’s local life for centuries. The court would have been a bustling area, with vendors and artisans selling their goods.
