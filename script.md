@@ -26,9 +26,109 @@ As Hamlet’s night of revelry draws him in.”
 
 ## Act 1: The Summoning
 
-*The stage—be it a literal stage or an open space—begins to fill with the characters: the three Witches, Friar Laurence, Queen Titania, Sir Toby Belch, Falstaff, and Mercutio. They gather in a loose circle, whispering and chuckling. Hamlet stands at the center, confused and slightly resistant.*
+*The stage—be it a literal stage or an open space—begins to fill with the characters: the three Witches, Friar Laurence, Queen Titania, Sir Toby Belch, Falstaff, and Mercutio.*
+
+**Narrator**  
+"Gather ‘round, brave souls, for you shall meet,  
+A cast of misfits, wild and sweet.  
+Each one you’ll see, by fate’s command,  
+Will play a part in this mad, merry band!"
+
+*Enter Hamlet*
+
+**Narrator** 
+"First to arrive, from Denmark’s moody shores,  
+The Prince of ponder, whose mind oft wars.  
+Give welcome to Hamlet, of brooding fame!"
+
+**Hamlet**
+"Indeed, ‘tis I, with thoughts too heavy to tame.  
+Though madness grips, I am tasked wit'—  
+Being slightly less of a moody bastard."
+
+**Narrator**
+"And who is this, with herbs and holy words?  
+A Friar most wise, whose counsel is heard.  
+Welcome, Friar Laurence, to this revelry!"
+
+*Friar Laurence steps forward*
+
+**Friar Laurence** 
+"Aye, wisdom I have, but folly I see,  
+For potions and plans are but fickle friends,  
+Yet here I stand, where the mischief never ends."
+
+*Friar Laurence steps aside and miracously becomes the narrator*
+
+**Narrator**
+"Next come the Witches, three in might,  
+They speak in riddles and stir the night.  
+Welcome, ye hags of fate and mystery!"
+
+*The Witches enter*
 
 **First Witch:**  
+"Tis true, we three have power untold,  
+To shape the future, both fierce and bold"
+
+**Second Witch**
+"But I'm afraid there is but only two, 
+The other ones had something spicy and she's stuck on the loo"
+
+**Narrator**
+"And now, a fairy queen so grand,  
+With magic reign she rules the land.  
+Queen Titania, who brings delight!"
+
+**Queen Titania**
+"Yes, ‘tis I, Queen of the fairies bright!  
+With sprites and spells, I dance and play,  
+To lead this merry band astray!"
+
+**Narrator**
+"From Illyria’s court, we now greet a man,  
+With dignity as stiff as an iron pan.  
+Malvolio, come forth, so serious and proud!"
+
+**Malvolio**
+"Indeed, I stand with virtue unbowed.  
+These antics offend my noble air,  
+Yet duty calls, and thus I bear."
+
+**Narrator**
+"Sir Toby Belch, with laughter so loud,  
+Who drinks and jests before any crowd.  
+Step forth, good knight, with a mug in hand!"
+
+**Sir Toby Belch**
+"Aye, and drink I shall! Let’s make it grand!  
+For wit flows best with a belly of ale,  
+And a night of fun without fail!"
+
+**Narrator**
+"Sir John Falstaff, large and bold,  
+With a heart of gold—or so he’s told.  
+Come forth, brave knight, in mirth and might!"
+
+**Falstaff**
+"Indeed, I’m here, a man of girth,  
+With courage, wit, and ample mirth!  
+Let’s feast and jest ‘til the break of day,  
+For who can drink and laugh like me, I say!"
+
+**Narrator**
+"Lastly comes Mercutio, quick of tongue,  
+With wit and jests forever young.  
+Step forth, bold fool, with your clever sting!"
+
+**Mercutio**
+"Aye, that’s me, with words that sing!  
+Sharp as a blade, I jest and jeer,  
+For laughter, friends, is why we’re here!"
+
+*They gather in a loose circle, whispering and chuckling. Hamlet stands at the centre, confused and slightly resistant.*
+
+**First Witch**
 “Round about the forest we go,  
 Where the winds of mischief blow.  
 Hamlet! Prince of brooding night,  
