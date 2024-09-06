@@ -163,11 +163,15 @@ This night of revelry has just begun!”
 “If I must play the fool, so be it then,  
 But know, I’ll match your jests with wit again.”
 
+---
+
+*The first act concludes as Hamlet barely escapes the enchanted chase, having survived the challenges set before him. The Witches cackle, knowing the night’s madness is far from over.*
+
 ## Challenge 1: The Battle of Wits
 
 *As Hamlet resigns himself to the night’s events, Mercutio steps forward with a mischievous grin.*
 
-**Mercutio:**  
+**Malvolio:**  
 “Aha! Good Hamlet, since thou art crowned the king,  
 I challenge thee to match my sting.  
 In this battle of wits, let’s have some fun,  
@@ -177,9 +181,14 @@ We’ll see whose tongue is sharp, whose brain weighs a ton!”
 “A battle of wits, you say? Indeed,  
 Let’s see who plants the sharper seed.”
 
+**Narrator:**
+"Two moody gits,
+shall hath a battle o' wits,
+before, this loud and ungracious band of twits"
+
 *The other characters gather around in a semi-circle, eager spectators to the duel of words. The Witches cackle in anticipation, and Sir Toby pours drinks for himself and Falstaff, who both cheer on the combatants.*
 
-**Mercutio:**  
+**Malvolio:**  
 *With a flourish*  
 “Thou art as melancholy as a cat in the rain,  
 Couldst thou not smile without thy brain in pain?”
@@ -190,7 +199,7 @@ Whose wit is like a fish—slippery, cold.”
 
 *The others laugh, egging them on.*
 
-**Mercutio:**  
+**Malvolio:**  
 “Slippery, perhaps, but swift as a fox,  
 While thy thoughts plod along like oxen in the rocks.”
 
@@ -208,7 +217,7 @@ The night should be solemn, a time to rest!”
 “Peace, good Malvolio, let laughter reign,  
 Or else these jests we shall aim at thy pain.”
 
-**Mercutio:**  
+**Malvolio:**  
 “Aye, thou art the perfect fool, Malvolio dear,  
 With thy face so grim, so full of fear!”
 
@@ -218,7 +227,7 @@ With thy face so grim, so full of fear!”
 “Thy tongue is sharp, but I’ll not yield,  
 For in this game, my wit’s the shield.”
 
-**Mercutio:**  
+**Malvolio:**  
 “And yet, dear Hamlet, when all is said,  
 Thy wit leaves much to be desired, I dread.”
 
@@ -255,7 +264,7 @@ An enchanted duel to brighten the fray.”
 “What trick is this, what foolery grand?  
 A duel with magic’s invisible hand?”
 
-**Malvolio:**  
+**Queen Titania:**  
 *Indignant*  
 “I am no fool to play in such jest,  
 My dignity is at stake—my very best!”
@@ -266,7 +275,7 @@ When you fight with feather and not with brawl!”
 
 *With a wave of her hand, Malvolio’s weapon appears—a large, absurd feather duster. He looks at it in horror.*
 
-**Malvolio:**  
+**Queen Titania:**  
 “What is this nonsense, this weapon absurd?  
 I refuse to fight—it’s truly unheard!”
 
@@ -289,7 +298,7 @@ Let’s see you win this comical fight!”
 
 *Hamlet swings the spoon with exaggerated finesse, overacting his moves. Malvolio, in stark contrast, stumbles and twirls uncontrollably, trying to fight with the feather duster.*
 
-**Malvolio:**  
+**Queen Titania:**  
 *Flustered, while flailing*  
 “This is an outrage, I tell thee,  
 A travesty most foul—I’ll never be free!”
@@ -305,7 +314,7 @@ The winner of this duel, oh so rare!”
 “Now by the moon, what curse is this?  
 Each word I speak must sound like bliss?”
 
-**Malvolio:**  
+**Queen Titania:**  
 *Struggling*  
 “Enough, enough! I cannot bear,  
 To duel in such a manner, most unfair!”
@@ -329,7 +338,7 @@ A prince undone by feathered art!”
 
 *Hamlet falls to the ground in an exaggerated swoon, rolling dramatically for added effect.*
 
-**Malvolio:**  
+**Queen Titania:**  
 *With great reluctance, but determined not to be outdone*  
 “Though this is madness, I’ll play my part,  
 But mark this well—it breaks my heart!”
@@ -352,7 +361,7 @@ And by our spell, his tale is told.”
 
 *The witches declare Hamlet the winner, but with much laughter and cheering from the group. Malvolio, embarrassed but still attempting to maintain his dignity, stands up and brushes himself off.*
 
-**Malvolio:**  
+**Queen Titania:**  
 “This night will haunt me, no more shall I stay—  
 I’ll leave you all to this reckless play!”
 
@@ -562,8 +571,29 @@ One final test, will he keep pace?”
 **Sir Toby Belch:**  
 “I’m the man for the job! I’ve been misruling for years, ha!”
 
-**Sir John Falstaff:**  
+**Falstaff:**  
 “Aye, but I’m bigger and bolder. I’ll drink to misrule every day!”
 
 **Queen Titania:**  
-“Fools, all of you. Only a faerie queen can truly wield 
+“Fools, all of you. Only a faerie queen can truly wield the chaos.”
+
+**Mercutio:**  
+*Laughing*  
+“Chaos is mine to rule! My mind is a whirl of misrule already!”
+
+*Hamlet must choose wisely, but the Witches intervene.*
+
+**First Witch:**  
+“To rule misrule is not a crown,  
+But to embrace the chaos all around!”
+
+**Second Witch:**  
+“You, Hamlet, are the chosen one—  
+Misrule is yours, now have your fun!”
+
+*The trial ends with Hamlet being declared the Lord of Misrule, to the cheers (and grumbles) of the others. The scene closes with the characters bowing to their new Lord of Misrule as the forest fills with laughter and the sound of magic.*
+
+**Hamlet:**  
+*Smiling, accepting the role with a wink.*  
+“Then let misrule reign, for tonight, we’re free,  
+Let the madness flow—under this enchanted tree!”
