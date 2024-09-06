@@ -252,8 +252,10 @@ For this is but the start of night!”
 An enchanted duel to brighten the fray.”
 
 **Second Witch:**  
-“A duel of wit, of speed, of flair,  
-But beware, for magic fills the air!”
+“A duel of wit, of speed, of flair,"
+
+**Third Witch:**
+"But beware, for magic fills the air!”
 
 *They wave their hands, and a shimmering magical "arena" appears—though it’s all imaginary. Illusions of weapons flash briefly. The audience sees nothing but must imagine the magical scene through the characters’ reactions.*
 
@@ -290,7 +292,7 @@ I’ll play the fool and join the fight!”
 
 *Hamlet is given an invisible sword, but every time he swings, it turns into a different object—first a bouquet of flowers, then a rubber chicken, then a giant spoon. The witches giggle as they continue casting their mischief.*
 
-**First Witch:**  
+**Third Witch:**  
 “A spoon for you, my princely knight,  
 Let’s see you win this comical fight!”
 
@@ -301,7 +303,7 @@ Let’s see you win this comical fight!”
 “This is an outrage, I tell thee,  
 A travesty most foul—I’ll never be free!”
 
-**Second Witch:**  
+**First Witch:**  
 “Fight, fight, good sirs, till we declare,  
 The winner of this duel, oh so rare!”
 
@@ -317,11 +319,11 @@ Each word I speak must sound like bliss?”
 “Enough, enough! I cannot bear,  
 To duel in such a manner, most unfair!”
 
-**First Witch:**  
+**Second Witch:**  
 “Not yet, dear Malvolio, we’re not done—  
 The duel must end with the *best* one.”
 
-**Second Witch:**  
+**Third Witch:**  
 “A death scene, my lords, to seal the deal,  
 The most *theatrical* one wins for real!”
 
@@ -369,11 +371,11 @@ I’ll leave you all to this reckless play!”
 
 *The mystical forest shimmers, the air thick with enchantment. The Witches huddle together, cackling as they prepare their next spell. Hamlet and the other characters stand wary, expecting more mischief.*
 
-**First Witch:**  
+**Second Witch:**  
 “Our final test, both grand and sly,  
 A chase of shadows ‘neath the sky!”
 
-**Second Witch:**  
+**Third Witch:**  
 “Run you must, swift and spry,  
 For whoever is caught will say goodbye!”
 
@@ -383,7 +385,7 @@ For whoever is caught will say goodbye!”
 “What game is this you weave tonight?  
 A chase of shadows, a foolish plight!”
 
-**Second Witch:**  
+**First Witch:**  
 “A chase it is, and here’s the trick,  
 You run through fog, and we’ll play quick!”
 
@@ -419,11 +421,11 @@ This chase is worse than politics!”
 
 *As the chase unfolds, everyone runs in circles, sometimes colliding with each other, sometimes swiping at thin air. The Witches watch from the side, laughing gleefully. Malvolio trips, Sir Toby stumbles, and Falstaff lazily ambles behind, clearly uninterested in running.*
 
-**First Witch:**  
+**Second Witch:**  
 “A chase that spins, a merry race,  
 Who will win? Who’ll lose the pace?”
 
-**Second Witch:**  
+**Third Witch:**  
 “We make it end with a simple call,  
 The one who stumbles last, shall fall!”
 
@@ -460,11 +462,11 @@ For running isn’t suited to this arse!”
 
 *The stage is set in the heart of the mystical forest. The eerie glow of the trees casts long shadows as Hamlet, still dazed from the previous challenges, is suddenly surrounded by the other characters. A throne, made of twisted branches, rises in the center, where the Witches stand, eager for the trial to begin.*
 
-**First Witch:**  
+**Second Witch:**  
 “Now the time has come to see,  
 Who the misruler’s lord shall be.”
 
-**Second Witch:**  
+**Third Witch:**  
 “Shall Hamlet prove himself today,  
 Or shall he fall, in disarray?”
 
@@ -513,11 +515,11 @@ Hamlet must face the misrule sins.”
 
 *The Witches present Hamlet with a riddle, meant to test his wit and ability to think like a fool. Mercutio, Falstaff, and Sir Toby all chime in with their own twisted interpretations.*
 
-**First Witch:**  
+**Second Witch:**  
 “To rule misrule, you must think askew,  
 Solve this riddle, if you can pursue.”
 
-**Second Witch:**  
+**Third Witch:**  
 “What grows larger the more you take away?”
 
 *Hamlet ponders, while the others try to confuse him.*
