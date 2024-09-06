@@ -75,6 +75,9 @@ To shape the future, both fierce and bold"
 "But I'm afraid there is but only two, 
 The other ones had something spicy and she's stuck on the loo"
 
+**Third Witch**
+
+
 **Narrator**
 "And now, a fairy queen so grand,  
 With magic reign she rules the land.  
@@ -136,8 +139,10 @@ We crown thee now, by moon’s pale light.”
 
 **Second Witch:**  
 “A crown of madness, leaves and twigs,  
-To guide thee through this night of jigs.
-A night where sense is lost to folly,  
+To guide thee through this night of jigs."
+
+**Third Witch:**
+"A night where sense is lost to folly,  
 Where merry-making turns most jolly!”
 
 *The Witches place the absurd crown on Hamlet’s head. He looks bewildered, glancing at the other characters for some explanation.*
