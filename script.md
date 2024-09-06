@@ -79,9 +79,6 @@ The other ones had something spicy and she's stuck on the loo"
 "Nay, as foretold,
 A miraculous recovery has occurred."
 
-**Third Witch**
-
-
 **Narrator**
 "And now, a fairy queen so grand,  
 With magic reign she rules the land.  
@@ -113,7 +110,7 @@ For wit flows best with a belly of ale,
 And a night of fun without fail!"
 
 **Narrator**
-"Sir John Falstaff, large and bold,  
+"Lastly comes Sir John Falstaff, large and bold,  
 With a heart of gold—or so he’s told.  
 Come forth, brave knight, in mirth and might!"
 
@@ -122,16 +119,6 @@ Come forth, brave knight, in mirth and might!"
 With courage, wit, and ample mirth!  
 Let’s feast and jest ‘til the break of day,  
 For who can drink and laugh like me, I say!"
-
-**Narrator**
-"Lastly comes Mercutio, quick of tongue,  
-With wit and jests forever young.  
-Step forth, bold fool, with your clever sting!"
-
-**Mercutio**
-"Aye, that’s me, with words that sing!  
-Sharp as a blade, I jest and jeer,  
-For laughter, friends, is why we’re here!"
 
 *They gather in a loose circle, whispering and chuckling. Hamlet stands at the centre, confused and slightly resistant.*
 
@@ -462,15 +449,15 @@ For running isn’t suited to this arse!”
 
 *The characters, laughing and groaning, walk off to rest after the chaos of the enchanted chase. The Witches watch them leave, still giggling to themselves, their mischief complete.*
 
-## Act 2: The Trial of the Lord of Misrule
+## **Act 2: The Trial of the Lord of Misrule**
 
 *The stage is set in the heart of the mystical forest. The eerie glow of the trees casts long shadows as Hamlet, still dazed from the previous challenges, is suddenly surrounded by the other characters. A throne, made of twisted branches, rises in the center, where the Witches stand, eager for the trial to begin.*
 
-**Second Witch:**  
+**First Witch:**  
 “Now the time has come to see,  
 Who the misruler’s lord shall be.”
 
-**Third Witch:**  
+**Second Witch:**  
 “Shall Hamlet prove himself today,  
 Or shall he fall, in disarray?”
 
@@ -501,29 +488,17 @@ Misrule, yes, but balance we protect.”
 “This farce has gone too far, I say.  
 Let order rule and clear the way!”
 
-**Mercutio:**  
-*Laughing, leaning on his sword.*  
-“Order, Malvolio? Bah! This is a game!  
-A game of madness—misrule in name!”
-
-**First Witch:**  
-*Raising her hand.*  
-“Quiet, fools! The trial begins,  
-Hamlet must face the misrule sins.”
-
-*The Witches motion to a set of three tasks, displayed in the forest—each one representing a challenge Hamlet must face in the trial. The trial itself is meant to determine whether Hamlet has the "chaotic spirit" necessary to rule over misrule.*
-
 ---
 
 ## Task 1: A Fool’s Wisdom
 
-*The Witches present Hamlet with a riddle, meant to test his wit and ability to think like a fool. Mercutio, Falstaff, and Sir Toby all chime in with their own twisted interpretations.*
+*The Witches present Hamlet with a riddle, meant to test his wit and ability to think like a fool. Sir Toby Belch, Falstaff, and Malvolio all chime in with their own twisted interpretations.*
 
-**Second Witch:**  
+**First Witch:**  
 “To rule misrule, you must think askew,  
 Solve this riddle, if you can pursue.”
 
-**Third Witch:**  
+**Second Witch:**  
 “What grows larger the more you take away?”
 
 *Hamlet ponders, while the others try to confuse him.*
@@ -533,6 +508,9 @@ Solve this riddle, if you can pursue.”
 
 **Sir John Falstaff:**  
 “Or my thirst for ale—never quenched, only increased!”
+
+**Malvolio:**  
+“This is absurd! The answer is clearly beneath you all.”
 
 **Hamlet:**  
 *Smirking as he understands the riddle.*  
@@ -547,22 +525,24 @@ On to the next, let’s test his will!”
 
 ## Task 2: The Dance of Chaos
 
-*The characters must now demonstrate their ability to improvise and embrace chaos. Each character must perform a spontaneous, wild dance or movement. Hamlet watches, amused but unsure how to respond.*
+*The characters must now demonstrate their ability to improvise and embrace chaos. Hamlet watches as Sir John Falstaff, Sir Toby Belch, Queen Titania, and Malvolio perform.*
 
 **Queen Titania:**  
 *Graceful but erratic.*  
 “In the realm of faeries, we dance with glee,  
 Chaos, yes, but it’s beauty to me!”
 
-**Mercutio:**  
-*Dancing wildly, spinning his sword.*  
-“I fight with wit, but I dance with blades,  
-Chaos? Hah! It's all just masquerades!”
+**Sir John Falstaff:**  
+*Performing an exaggerated, drunken dance.*  
+“My dear, I’ve danced with barrels of ale! Watch my form!”
+
+**Sir Toby Belch:**  
+*Wildly spinning and laughing.*  
+“Aye, Falstaff, you’d dance with a barrel if it were full!”
 
 **Malvolio:**  
-*Reluctantly attempting a stiff, awkward dance.*  
-“This is beneath me—I’ll have no part,  
-Chaos, misrule, it’s all but a fart!”
+*Attempting to remain dignified.*  
+“This… this is beneath me. Such undignified chaos!”
 
 **Hamlet:**  
 *Laughing, joining in with a mix of grace and madness.*  
@@ -582,29 +562,8 @@ One final test, will he keep pace?”
 **Sir Toby Belch:**  
 “I’m the man for the job! I’ve been misruling for years, ha!”
 
-**Falstaff:**  
+**Sir John Falstaff:**  
 “Aye, but I’m bigger and bolder. I’ll drink to misrule every day!”
 
 **Queen Titania:**  
-“Fools, all of you. Only a faerie queen can truly wield the chaos.”
-
-**Mercutio:**  
-*Laughing*  
-“Chaos is mine to rule! My mind is a whirl of misrule already!”
-
-*Hamlet must choose wisely, but the Witches intervene.*
-
-**First Witch:**  
-“To rule misrule is not a crown,  
-But to embrace the chaos all around!”
-
-**Second Witch:**  
-“You, Hamlet, are the chosen one—  
-Misrule is yours, now have your fun!”
-
-*The trial ends with Hamlet being declared the Lord of Misrule, to the cheers (and grumbles) of the others. The scene closes with the characters bowing to their new Lord of Misrule as the forest fills with laughter and the sound of magic.*
-
-**Hamlet:**  
-*Smiling, accepting the role with a wink.*  
-“Then let misrule reign, for tonight, we’re free,  
-Let the madness flow—under this enchanted tree!”
+“Fools, all of you. Only a faerie queen can truly wield 
