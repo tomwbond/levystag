@@ -76,6 +76,10 @@ To shape the future, both fierce and bold"
 The other ones had something spicy and she's stuck on the loo"
 
 **Third Witch**
+"Nay, as foretold,
+A miraculous recovery has occurred."
+
+**Third Witch**
 
 
 **Narrator**
