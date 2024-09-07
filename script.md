@@ -165,8 +165,6 @@ But know, I’ll match your jests with wit again.”
 
 ---
 
-*The first act concludes as Hamlet barely escapes the enchanted chase, having survived the challenges set before him. The Witches cackle, knowing the night’s madness is far from over.*
-
 ## Challenge 1: The Battle of Wits
 
 *As Hamlet resigns himself to the night’s events, Mercutio steps forward with a mischievous grin.*
@@ -206,22 +204,6 @@ While thy thoughts plod along like oxen in the rocks.”
 **Hamlet:**  
 “But better to plod than to stumble and fall,  
 As you, my dear friend, do often recall.”
-
-*Malvolio, who has been standing at the edge of the group, steps forward, trying to assert some order.*
-
-**Malvolio:**  
-“Enough of this nonsense, this is no time for jest,  
-The night should be solemn, a time to rest!”
-
-**Hamlet:**  
-“Peace, good Malvolio, let laughter reign,  
-Or else these jests we shall aim at thy pain.”
-
-**Malvolio:**  
-“Aye, thou art the perfect fool, Malvolio dear,  
-With thy face so grim, so full of fear!”
-
-*Malvolio huffs and puffs, retreating with his dignity bruised, while the others laugh. The battle continues with more jabs and jests, each one more ridiculous than the last.*
 
 **Hamlet:**  
 “Thy tongue is sharp, but I’ll not yield,  
@@ -320,14 +302,14 @@ Each word I speak must sound like bliss?”
 To duel in such a manner, most unfair!”
 
 **Second Witch:**  
-“Not yet, dear Malvolio, we’re not done—  
+“Not yet, dear Titania, we’re not done—  
 The duel must end with the *best* one.”
 
 **Third Witch:**  
 “A death scene, my lords, to seal the deal,  
 The most *theatrical* one wins for real!”
 
-*The crowd of characters watches eagerly as Hamlet and Malvolio prepare for their grand death scenes.*
+*The crowd of characters watches eagerly as Hamlet and  Titania prepare for their grand death scenes.*
 
 **Hamlet:**  
 *Dramatically clutching his chest*  
@@ -343,7 +325,7 @@ A prince undone by feathered art!”
 “Though this is madness, I’ll play my part,  
 But mark this well—it breaks my heart!”
 
-*Malvolio twirls with the feather duster and then collapses in a heap, clutching it like a tragic relic.*
+*Titania twirls with the feather duster and then collapses in a heap, clutching it like a tragic relic.*
 
 **Sir Toby Belch:**  
 *Cheering*  
@@ -353,7 +335,7 @@ His death was *longer* and far more slicker!”
 **Sir John Falstaff:**  
 *Nodding in agreement*  
 “Aye, ‘twas a spectacle, indeed well-played!  
-But Malvolio’s fall was stiff and staid.”
+But Titania’s fall was stiff and staid.”
 
 **First Witch:**  
 “Declare we must, the winner bold,  
@@ -576,10 +558,6 @@ One final test, will he keep pace?”
 
 **Queen Titania:**  
 “Fools, all of you. Only a faerie queen can truly wield the chaos.”
-
-**Mercutio:**  
-*Laughing*  
-“Chaos is mine to rule! My mind is a whirl of misrule already!”
 
 *Hamlet must choose wisely, but the Witches intervene.*
 
